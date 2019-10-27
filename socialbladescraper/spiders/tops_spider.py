@@ -2,8 +2,8 @@ import scrapy
 import pprint as pp
 
 
-class Top5000Spider(scrapy.Spider):
-    name = "top5000"
+class TopsSpider(scrapy.Spider):
+    name = "tops"
 
     def start_requests(self):
         urls = [
