@@ -1,0 +1,5 @@
+output
+socialbladescraper/**/__pycache__
+socialbladescraper/**/*.pyc
+
+
