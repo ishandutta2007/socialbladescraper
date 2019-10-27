@@ -6,3 +6,6 @@
 # socialbladescraper/spiders/quotes_spider.py: 1
 # socialbladescraper/spiders/top5000_spider.py: 1
 Scrapy == 1.7.2
+output
+socialbladescraper/**/__pycache__
+socialbladescraper/**/*.pyc

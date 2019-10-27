@@ -114,13 +114,13 @@
 /youtube/c/mnet
 /youtube/c/oyuncakavitv
 /youtube/c/rctilayardramaindonesia
-/youtube/channel/UCAQ7PeJwX2F6_odruI6iqrg
 /youtube/channel/UCGE4bp-4z45qtUIGzXzbnBw
 /youtube/c/bouncepatrolkidstv
 /youtube/c/ntvru
 /youtube/channel/UCwJZiyiR1aDwEL3Gkm7entw
 /youtube/c/ratitaspandilleras
 /youtube/c/thvlphim
+/youtube/channel/UCEREgnbM4H1S6f5JG3IfMUw
 /youtube/user/toyoraljanahtv
 /youtube/c/ed-sheeran
 /youtube/c/thaich8
@@ -327,10 +327,10 @@
 /youtube/channel/UCny0sheaqkotZIb6BjfQGWQ
 /youtube/user/lokdhuntv
 /youtube/channel/UCSLZXHSv1aQDNeLN3GX6bew
-/youtube/user/
 /youtube/channel/UCtTfSyci2urfwXXu_eRpNRA
 /youtube/c/yaocabrera
 /youtube/c/itsfunneh 
+/youtube/user/
 /youtube/user/peppalatinoamericano
 /youtube/c/itsanas
 /youtube/c/jassrecords
@@ -396,11 +396,11 @@
 /youtube/c/greengoldtv
 /youtube/user/chaconhopsuc
 /youtube/channel/UCgPcWFUDb8oRApU3Wil_t-Q
-/youtube/c/quyetdoankc
 /youtube/c/familyfunpack
 /youtube/c/supersimpleabcs
 /youtube/c/em%c4%b0nemvevo
 /youtube/c/sagemodenaruto
+/youtube/c/quyetdoankc
 /youtube/user/mashabearukraine
 /youtube/c/lescopaqueproduction
 /youtube/c/teamfilmsbhojpuri
@@ -587,6 +587,7 @@
 /youtube/channel/UCtm3DGXkWqAUQZMHl97SVxA
 /youtube/user/cantajuegovevo
 /youtube/channel/UCrYwqJZ-AnvnyF8vRndgvnA
+/youtube/channel/UCuaJrKvyn6VyJVXVUcFhHng
 /youtube/c/hearthismusictv
 /youtube/c/dspblackrock
 /youtube/user/vyqwaint
@@ -850,6 +851,7 @@
 /youtube/c/ntvteluguhd
 /youtube/user/dhxjuniortvspain
 /youtube/c/renatogarciapr
+/youtube/channel/UClFGKTmGdxq3g-RiVtgkCyQ
 /youtube/c/%e3%83%92%e3%82%ab%e3%82%ad%e3%83%b3tv
 /youtube/c/ambeybhakti
 /youtube/user/theweekndvevo
@@ -1136,6 +1138,7 @@
 /youtube/c/ujjaldancegroup
 /youtube/channel/UC-l6CtDqb2JKxbM6t2uLl-A
 /youtube/channel/UCLYk1Xi3siYdls8z1LYYGww
+/youtube/c/planetaofficial
 /youtube/channel/UCyrvsW5X_HZUJoPv4eXUWxA
 /youtube/channel/UCYzEMRKqrh01-tauv7MYyVQ
 /youtube/channel/UCiMEg0Cr67EMewoCAwt72lQ
@@ -1451,10 +1454,8 @@
 /youtube/user/elbiladaily
 /youtube/c/einerdtv
 /youtube/user/lucianopereyravevo
-/youtube/channel/UCMwbEuhbhg9S7WTz6md6Kzw
 /youtube/channel/UCW3VI9s3Dw8o1ekgjI3FCzw
 /youtube/channel/UCZdGJgHbmqQcVZaJCkqDRwg
-/youtube/c/planetaofficial
 /youtube/c/megaoficial
 /youtube/channel/UCZyxY8Q7xgUCXfFViWkjrSw
 /youtube/c/%eb%bd%80%eb%a1%9c%eb%a1%9c(pororo)
@@ -1872,6 +1873,7 @@
 /youtube/channel/UC1nqMqjwWkcN80yfHM6Hcow
 /youtube/channel/UCINnsq7saBdR41N8d0bMUvA
 /youtube/c/enamorandonos}
+/youtube/channel/UCMwbEuhbhg9S7WTz6md6Kzw
 /youtube/channel/UCr0adenI5KeQFJkMIGjq5qw
 /youtube/c/pagecothebanchuabiet
 /youtube/c/shrutiarjunanand
@@ -2679,6 +2681,7 @@
 /youtube/c/lauvsongs
 /youtube/user/capitalfmofficial
 /youtube/c/mariandkids
+/youtube/channel/UCRcqeR4UDuqT5qUNLr9LVAg
 /youtube/c/estadiovideos
 /youtube/c/knabbel3
 /youtube/channel/UCUf7BpZJOP4YnfF2iVDt-_Q
@@ -2736,6 +2739,7 @@
 /youtube/c/nassifzeytoun
 /youtube/channel/UCs0nCoGRWh_HPpa_jKo0o2Q
 /youtube/c/rodrigofgamerrespeita
+/youtube/c/melodicstar
 /youtube/channel/UCNYviPiVzyiWtZmOrx6UI1g
 /youtube/c/cjsocool
 /youtube/c/thexfactorstb
@@ -2859,7 +2863,6 @@
 /youtube/c/y3by3b
 /youtube/c/campechaneando
 /youtube/c/martingarrix
-/youtube/c/yanashanko
 /youtube/c/truegym
 /youtube/channel/UCZ8MqcJVNNq6d1KARqqI19g
 /youtube/c/servandozl1
@@ -2867,7 +2870,6 @@
 /youtube/channel/UCWVXX_FP-Wm0RzQIcEWaPrw
 /youtube/channel/UCAGM-0z6TopsOX6wjy_8yIw
 /youtube/c/funkexplodeoficial
-/youtube/c/ifritaeon
 /youtube/channel/UCiPuKUAAiY7X-LapJoBdcdQ
 /youtube/c/bbcr1
 /youtube/channel/UCsHe74knLccbgec6WdGAkPQ
@@ -2956,10 +2958,10 @@
 /youtube/channel/UCFg2XGOK5KHeXHlcIa7o22w
 /youtube/channel/UC6jvGhVm8JSCNwU1Y13BfZw
 /youtube/channel/UCwXeXBlXS4VWsllAk40tHRg
+/youtube/c/rwbymmd
 /youtube/channel/UCQ5a6t32eTalvd-n2jQN1QQ
 /youtube/channel/UCDvcxk7hYgNzf4s8lTmM4zg
 /youtube/c/jamallaeliseries
-/youtube/c/rwbymmd
 /youtube/channel/UCZGGwh9OctbZKgK1C8BUIbg
 /youtube/c/jaby-koay
 /youtube/channel/UCrlN5ji8UgcJIZYK_hHjxlg
@@ -3020,6 +3022,7 @@
 /youtube/c/myexperiments
 /youtube/channel/UCjDoYIFCtvlSBLAu74x02rQ
 /youtube/c/malekmaktabi
+/youtube/c/awesometoysurprises
 /youtube/c/captainsauce
 /youtube/channel/UCusVOgn4pFZtSOvDM1JtPTg
 /youtube/channel/UCd03l2uhKmifkTDLdsP1kSw
@@ -3355,6 +3358,7 @@
 /youtube/c/steprecords
 /youtube/user/djaugustodjthiago
 /youtube/c/pbsnewshour'
+/youtube/channel/UCCNMVfRdwJ8qfcSsprjj8GQ
 /youtube/channel/UCw9L4gmA0nAsg6rlxBncByg
 /youtube/user/ljubica75
 /youtube/c/thelionguard
@@ -3479,6 +3483,7 @@
 /youtube/c/kacketdolemafia
 /youtube/channel/UCy-oaFhNZ41yHVxqrSSI3hQ
 /youtube/c/88rising\\\\
+/youtube/user/godustinginsberg
 /youtube/channel/UCT4p4B8sRyKPgraEmiIU1qg
 /youtube/c/skrillex
 /youtube/c/mattsdance
@@ -3513,6 +3518,7 @@
 /youtube/user/starkingsbs
 /youtube/user/memehongkong
 /youtube/c/insiderfood
+/youtube/channel/UCDKJYmj12X5gCWZIZWpHMoA
 /youtube/c/humclassics
 /youtube/user/discoverytv
 /youtube/channel/UC8ledgLQ55PwS6MQy-Okb6w
@@ -3528,6 +3534,7 @@
 /youtube/c/izabeloi
 /youtube/user/lastweektonight
 /youtube/c/foochia
+/youtube/channel/UC01dHFq4_ku9vjnlmm6EP6Q
 /youtube/c/sriganeshvideossgv
 /youtube/c/lecannews
 /youtube/c/ramaudio
@@ -3673,12 +3680,12 @@
 /youtube/channel/UCbwvhTy39EMxe-mTE-Zhv8Q
 /youtube/channel/UCtTGbJC72sakYRXiLiV5rzQ
 /youtube/channel/UC4wI0bNpRBauwbKgRaQyTVQ
-/youtube/channel/UCEIhYvRkD7bCr5gNOvC34Xg
 /youtube/c/klikklak
 /youtube/c/АНЮТКАМАЛЮТКА
 /youtube/channel/UCCvguzToWt3PYumFPRusUKg
 /youtube/channel/UCyAtL5EG3cdr-te0cEt2qFg
 /youtube/c/clevvernews
+/youtube/channel/UCEIhYvRkD7bCr5gNOvC34Xg
 /youtube/c/starshiptv
 /youtube/channel/UCZfupFXtc1U6hofsotI36zQ
 /youtube/c/unknownboyvarun
@@ -3870,7 +3877,6 @@
 /youtube/c/kidsone
 /youtube/channel/UCgQgMOBZOJ1ZDtCZ4hwP1uQ
 /youtube/c/ferited
-/youtube/user/godustinginsberg
 /youtube/c/theasiachanneltv
 /youtube/c/artforkidshub
 /youtube/channel/UCdQS6M1EBxnAQ5CblhcThaw
@@ -4673,7 +4679,6 @@
 /youtube/user/carlamorrisonmusic
 /youtube/channel/UCyyvZXyJfYPSYgwQTLpWSRA
 /youtube/user/2015jay
-/youtube/channel/UC4bMKWKivuMGj4Lqha6m83g
 /youtube/c/promotingsounds
 /youtube/c/tinytreasuresandtoys
 /youtube/user/ygvevo
@@ -4731,6 +4736,7 @@
 /youtube/channel/UCmZM0QhtHdAZwvyJtiGaxJA
 /youtube/c/superlinemusic
 /youtube/channel/UCWuPy5C32Az6-cvTBXURYew
+/youtube/c/nhactrutinh64
 /youtube/c/donibs
 /youtube/channel/UC50DupLkQxQuryEPBWVCNjQ
 /youtube/user/televisiontunisie6
@@ -4777,6 +4783,7 @@
 /youtube/c/takumitohgu
 /youtube/user/johnlegendvevo
 /youtube/channel/UC8seEW5sdRsZKFbNr-oR2WQ
+/youtube/channel/UC4zaViJlz_ZgP9bW0zQgTXg
 /youtube/c/blink-182vevo
 /youtube/channel/UC4a8qGsblRw6tkwgaxPqE4Q
 /youtube/c/bichphuongofficial
@@ -4797,9 +4804,9 @@
 /youtube/user/faktyictvchannel
 /youtube/user/kanaldisneyseries
 /youtube/channel/UCTACwJNUjIIyBJPZfe3rvWw
-/youtube/c/morlessmedia
 /youtube/c/tv5news
 /youtube/user/savethechildrenin
+/youtube/c/morlessmedia
 /youtube/channel/UCt5w_7CYooji95xUhFDjNBA
 /youtube/channel/UCmyy-o4u56B0ExyEbSUbprQ
 /youtube/channel/UCZ5EhVtjHsdha52CiOcFvvg
@@ -4991,10 +4998,3 @@
 /youtube/user/sonymusicnetwork
 /youtube/channel/UCGWk8azphTdm0PKH0vKDIfw
 /youtube/c/ceritacita
-/youtube/channel/UCYY8mfSfJCyrUqJLZslrxRg
-/youtube/channel/UCxtuPNQXlQugb_UG9z_F1Mg
-/youtube/channel/UCGcoim6d_uCndwGm_Rq7Nuw
-/youtube/channel/UC2vayDdTlNeE_5Ofwa8_f7g
-/youtube/channel/UC_RrdzZ7DqYPJlJIGgSMjqA
-/youtube/user/beritasatu
-/youtube/c/mattgaralde
