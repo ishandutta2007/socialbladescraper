@@ -5,4 +5,4 @@
 # socialbladescraper/middlewares.py: 8
 # socialbladescraper/spiders/quotes_spider.py: 1
 # socialbladescraper/spiders/top5000_spider.py: 1
-Scrapy == 2.16.0
+Scrapy == 2.17.0
